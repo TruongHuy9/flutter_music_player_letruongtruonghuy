@@ -73,6 +73,10 @@
 ### Xin quyền truy cập
 <img width="388" height="760" alt="Screenshot 2026-05-14 200720" src="https://github.com/user-attachments/assets/6973920b-9846-4fa0-b8e4-a21c3600ab5e" />
 
+
+## Video demo
+https://drive.google.com/file/d/1QC5BXRGQ1UoHLSN2ZNgxJyZuOu_1Zdfl/view?usp=sharing
+
 ##  Cách Cài Đặt
 
 ### Yêu cầu
